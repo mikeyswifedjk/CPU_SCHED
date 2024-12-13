@@ -15,7 +15,7 @@ public class fcfs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("\nEnter the number of processes (between 3 and 6): ");
+        System.out.print("Enter the number of processes (between 3 and 6): ");
         int n = scanner.nextInt();
         System.out.println();
 
